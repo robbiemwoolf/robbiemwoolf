@@ -1,8 +1,10 @@
 ## Hi, I'm Robbie Woolf [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robbiewoolf)
-And I am a full stack web developer specializing in JavaScript, React, Node, and CSS. I have a passion for learning and increase my skills daily.<br />
-I offer a fresh perspective! Outside of my technical competencies, my prior welding career gave me experience with detail-oriented builds, keeping client satisfaction a top priority, and managing large-scale projects with tight deadlines.
 
 ![Robbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiemwoolf&show_icons=true&theme=merko)
+
+I am a full stack web developer specializing in JavaScript, React, Node, and CSS. I have a passion for learning and increase my skills daily.<br />
+I offer a fresh perspective! Outside of my technical competencies, my prior welding career gave me experience with detail-oriented builds, keeping client satisfaction a top priority, and managing large-scale projects with tight deadlines.
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robbiemwoolf&theme=merko&hide_border=false)<br/>
 
 <!--
